@@ -6,10 +6,10 @@ The aim of this project is to develop a machine learning model that can accurate
 ## Goal:
 The primary goal is to build a predictive model that can automatically classify tweets based on their content, enabling timely and effective response efforts during disasters. The model should achieve high accuracy in distinguishing between disaster-related and non-disaster-related tweets.
 
-##Data:
+## Data:
 The dataset used for this project consists of labeled tweets, where each tweet is annotated as either related to a disaster (positive class) or not (negative class). The dataset includes text content of tweets along with corresponding labels.
 
-##Methodology:
+## Methodology:
 
     Exploratory Data Analysis (EDA): Understanding the distribution of the data, identifying patterns, and exploring relationships between variables.
     Data Preprocessing: Cleaning and preprocessing the text data, including tasks such as tokenization, removing stopwords, and stemming.
